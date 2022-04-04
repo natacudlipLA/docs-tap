@@ -153,6 +153,7 @@ The reported errors may not indicate a real problem. A build cluster may not hav
 
   #### Solution
   Confirm the access token used to request information in the cluster.
+  
 
 - `Access error when querying cluster ‘CLUSTER_NAME’ for resource 'KUBERNETES_RESOURCE_PATH' (status: 403). Contact your administrator.`
 
@@ -175,6 +176,7 @@ The reported errors may not indicate a real problem. A build cluster may not hav
   #### Solution
 
   Install the Knative components following the instructions [here](../cloud-native-runtimes/install-cnrt.md).
+  
 
 - `Error when querying cluster ‘CLUSTER_NAME’ for resource 'KUBERNETES_RESOURCE_PATH' (status: 404). Contact your administrator.`
 
